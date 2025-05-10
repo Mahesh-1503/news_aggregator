@@ -1,0 +1,92 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+ios/Pods/
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+*.iml
+*.log
+*.g.dart
+*.freezed.dart
+*.mocks.dart
+
+# Node.js specific
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+.env.local
+.env.*.local
+dist/
+coverage/
+
+# IDE specific
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.apk
+*.aab
+*.ipa
+*.dSYM.zip
+*.dSYM
+*.so
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Hive database files
+*.hive
+*.lock
+
+# Generated files
+*.g.dart
+*.freezed.dart
+*.mocks.dart
+*.config.dart
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+temp/
+tmp/
+
+# Debug files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Local configuration
+local.properties
+key.properties
+google-services.json
+GoogleService-Info.plist
+
+# Coverage reports
+coverage/
+.nyc_output/
+
+# Build outputs
+build/
+dist/
+out/
