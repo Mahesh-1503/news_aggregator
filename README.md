@@ -1,5 +1,5 @@
 # News Aggregator App
-
+APK DRIVE LINK: https://drive.google.com/file/d/1n5aFJ8EYZClmTtakr8fzxO3yEuV0bsi0/view?usp=sharing
 A modern news aggregation application built with Flutter and Node.js, featuring real-time news updates, category filtering, and favorite article management.
 
 ## Features
